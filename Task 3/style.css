@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+  .to-top {
+    position:fixed;
+    bottom: 5%;
+    right: 3%;
+    padding:10px;
+    display:none;
+    cursor: pointer;
+    background-color: red;
+    border-radius: 5px;
+  }
